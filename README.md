@@ -1,5 +1,5 @@
 ### I am a mechanical engineer. Throughout my undergrad years I was involved in various engineering projects and research. I am broadly interested in Computer Vision, Applied Machine Learning, Data Science, Machine Learning Theory, Robotics, and Computational Engineering.
-#### Technical Skills: Python, C/C++, MATLAB, R, SQL, Markdown, LaTeX, Git, Bash
+#### Python, C/C++, MATLAB, R, SQL, Markdown, LaTeX, Git, Bash
 ## Education
 BSc in Mechanical Engineering | Islamic University of Technology| January,2019 to May,2023
   
