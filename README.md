@@ -1,4 +1,4 @@
-## I am a mechanical engineer. Throughout my undergrad years I was involved in various engineering projects and research. I am broadly interested in Computer Vision, Applied Machine Learning, Data Science, Machine Learning Theory, Robotics, and Computational Engineering.
+### I am a mechanical engineer. Throughout my undergrad years I was involved in various engineering projects and research. I am broadly interested in Computer Vision, Applied Machine Learning, Data Science, Machine Learning Theory, Robotics, and Computational Engineering.
 #### Python, C/C++, MATLAB, R, SQL, Markdown, LaTeX, Git, Bash
 ## Education
 - BSc in Mechanical Engineering | Islamic University of Technology| January,2019 to May,2023
@@ -46,3 +46,5 @@ My major contributions are:
 ## Publications
 - Abid Hasan, Imrul Kayes, Minhazul Alam, Tanvir Shahriar, M. Ahsan Habib,Generalized Machine Learning Models to Predict Significant Wave Height Utilizing Wind and Atmospheric Parameters *(Under Review)*
 - Minhazul Alam, Imrul Kayes, Abid Hasan, Tanvir Shahriar, M. Ahsan Habib, Exploring SAARC's Ocean Energy Potential: Current Status and Future Policies, Energy Strategy Reviews *(Under Review)*
+
+[**Download My CV**](assets/Abid Hasan CV.pdf)
