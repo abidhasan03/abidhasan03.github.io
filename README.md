@@ -1,1 +1,1 @@
-# abidhasan03.github.io
+### I am a mechanical engineer. Throughout my undergrad years I was involved in various engineering projects and research. I am broadly interested in Computer Vision, Applied Machine Learning, Data Science, Machine Learning Theory, Robotics, and Computational Engineering.
