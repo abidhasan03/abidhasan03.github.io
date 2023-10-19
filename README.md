@@ -28,14 +28,14 @@ BSc in Mechanical Engineering | Islamic University of Technology| January, 2019 
 
 ## Projects
 **Ants Aerial Systems**
-I was involved with Team Ants from December, 2019 to March, 2022, as part of the Autonomous team. As part of Team Ants, I took part in multiple national and international events.
+I was a member of Team Ants from December 2019 to March 2022, where I contributed to the Autonomous team and participated in multiple national and international events
 My major contributions are:
 - Formulation and simulation of flight paths for Unmanned Aerial Vehicles (UAVs).
 - Modelling the payload trajectory
 - Designing, developing and testing the paylod delivery system
 
 **Team IUT Mars Rover**
-I was also affiliated with the Team IUT Mars Rover from 2019 to 2023. I worked with multiple sub teams at various categories. 
+I was also affiliated with the Team IUT Mars Rover from 2019 to 2023. I worked with multiple sub teams at various capacity. 
 My major contributions are:
 - Fabrication, assembly and testing of a diverse range of mechanical components.
 - Integration and testing of electrical actuators and sensors.
