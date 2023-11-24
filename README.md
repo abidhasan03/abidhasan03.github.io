@@ -47,4 +47,3 @@ My major contributions are:
 - Abid Hasan, Imrul Kayes, Minhazul Alam, Tanvir Shahriar, M. Ahsan Habib, Generalized Machine Learning Models to Predict Significant Wave Height Utilizing Wind and Atmospheric Parameters *(Under Review)*
 - Minhazul Alam, Imrul Kayes, Abid Hasan, Tanvir Shahriar, M. Ahsan Habib, Exploring SAARC's Ocean Energy Potential: Current Status and Future Policies, Energy Strategy Reviews *(Under Review)*
 
-<!--[**Download My CV**](assets/Abid Hasan CV.pdf)>
