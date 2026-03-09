@@ -1,7 +1,6 @@
 ---
 title: Resume
 permalink: /resume/
-description: Resume of Abid Hasan.
 ---
 
 # Resume
