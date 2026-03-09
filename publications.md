@@ -1,7 +1,6 @@
 ---
 title: Publications
 permalink: /publications/
-description: Publications by Abid Hasan.
 ---
 
 # Publications
