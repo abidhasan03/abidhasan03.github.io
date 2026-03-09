@@ -1,7 +1,6 @@
 ---
 title: Home
 permalink: /
-description: Home page for Abid Hasan's personal portfolio.
 ---
 
 # Abid Hasan
