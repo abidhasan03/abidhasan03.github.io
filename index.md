@@ -14,10 +14,11 @@ I build practical ML systems and research-driven prototypes across **multimodal 
 
 ## What I work on
 
-- Multimodal retrieval-augmented generation for vision-language tasks
-- Deep learning for scientific and biomedical data
-- Representation learning for anomaly and defect detection
-- Robust ML methods for out-of-distribution generalization
+- Machine learning and deep learning systems
+- Multimodal AI and vision language models
+- Representation learning and data driven modeling
+- Robust and reliable machine learning
+- Retrieval systems and downstream LLM fine tuning
 
 ## Highlights
 
