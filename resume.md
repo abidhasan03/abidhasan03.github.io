@@ -8,7 +8,7 @@ description: Resume of Abid Hasan.
 
 You can download the latest PDF here:
 
-- [Download resume PDF](/assets/docs/Abid_Hasan_Resume.pdf)
+- [Download resume PDF](assets/Abid_Hasan_Resume.pdf)
 
 ## Snapshot
 
