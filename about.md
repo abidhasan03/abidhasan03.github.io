@@ -7,7 +7,8 @@ permalink: /about/
 
 I am a graduate student at **McGill University** pursuing an **MEng in Electrical Engineering** with a concentration in **Intelligent Systems**.
 
-My interests sit at the intersection of **machine learning research** and **applied AI engineering**. I enjoy building systems that combine sound experimentation with practical utility, especially in computer vision, multimodal learning, and scientific applications of ML.
+My interests sit at the intersection of **machine learning research** and **applied AI engineering**. I am interested in developing machine learning systems and models, with a focus on computer vision, multimodal learning, and scientific applications of machine learning.
+
 
 ## Current focus
 
