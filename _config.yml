@@ -1,3 +1,62 @@
+lang: en
+
 title: Abid Hasan
-logo: /assets/Headshot photo.jpg
-theme: jekyll-theme-minimal
+tagline: MEng student in Intelligent Systems at McGill University
+
+description: >
+  Personal portfolio of Abid Hasan — machine learning researcher and engineer
+  working on multimodal retrieval, deep learning, representation learning, and
+  applied AI systems.
+
+url: ""
+baseurl: ""
+
+remote_theme: hydecorp/hydejack@v9
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+logo: /assets/img/logo.svg
+accent_image: /assets/img/sidebar-bg.svg
+accent_color: rgb(29, 78, 216)
+theme_color: rgb(15, 23, 42)
+
+author:
+  name: Abid Hasan
+  email: abid.hasan@mail.mcgill.ca
+
+social:
+  name: Abid Hasan
+  links:
+    - https://github.com/abidhasan03
+    - https://linkedin.com/in/abid-hasan3
+
+menu:
+  - title: About
+    url: /about/
+  - title: Projects
+    url: /projects/
+  - title: Publications
+    url: /publications/
+  - title: Resume
+    url: /resume/
+
+copyright: © 2026 Abid Hasan.
+
+markdown: kramdown
+permalink: pretty
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
