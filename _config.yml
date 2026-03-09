@@ -20,7 +20,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
-logo: /assets/img/logo.svg
+logo: /assets/img/Portrait_maybe.jpg
 accent_image: /assets/img/sidebar-bg.svg
 accent_color: rgb(29, 78, 216)
 theme_color: rgb(15, 23, 42)
