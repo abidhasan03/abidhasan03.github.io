@@ -1,5 +1,4 @@
 # Abid Hasan portfolio
 
-This is a GitHub Pages-ready personal portfolio built on the free Hydejack theme.
-
-This site was generated with GPT
+This site uses the Hydejack Jekyll theme. 
+Initial scaffolding was generated with AI assistance and customized manually.
