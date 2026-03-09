@@ -1,4 +1,4 @@
-# Abid Hasan — Hydejack portfolio
+# Abid Hasan portfolio
 
 This is a GitHub Pages-ready personal portfolio built on the free Hydejack theme.
 
