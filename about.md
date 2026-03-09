@@ -1,7 +1,6 @@
 ---
 title: About
 permalink: /about/
-description: About Abid Hasan.
 ---
 
 # About
